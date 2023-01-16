@@ -12,7 +12,7 @@ const Home = ( { recipes } ) => (
             <div className="header">
                 <a href="">All Recipes</a>
                 <a href="randomizer">Randomizer</a>
-                <a href="/about.html">About</a>
+                <a href="about">About</a>
             </div>
         </div>
         <hr/>
@@ -23,7 +23,7 @@ const Home = ( { recipes } ) => (
         </div>
         <div className="footer">
             <hr className="footer-line"/>
-            <SocialIcon url="https://twitter.com/lindzfaith"/>
+            <SocialIcon url="https://twitter.com/lindzdev"/>
         </div>
     </div>
     </div>
