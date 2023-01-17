@@ -29,7 +29,7 @@
   justify-content: center;
   gap: 18px;
   width: 200%;
-  animation: marquee 18s linear infinite;
+  animation: marquee 25s linear infinite;
 }
 .side-container:hover {
   animation-play-state: paused;

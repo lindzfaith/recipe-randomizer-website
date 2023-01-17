@@ -10,7 +10,7 @@ const Home = ( { recipes } ) => (
         <h1>Unsure What To Cook?</h1>
         <div>
             <div className="header">
-                <a href="">All Recipes</a>
+                <a href="/">All Recipes</a>
                 <a href="randomizer">Randomizer</a>
                 <a href="about">About</a>
             </div>
