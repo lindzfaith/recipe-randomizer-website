@@ -31,6 +31,9 @@
   width: 200%;
   animation: marquee 18s linear infinite;
 }
+.side-container:hover {
+  animation-play-state: paused;
+}
 .heading {
   margin-bottom: 20px;
   display: flex;
